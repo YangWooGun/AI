@@ -30,10 +30,10 @@
 ### 학습 및 예측
 
 
-![K-NR](images/__results___15_0.png.PNG)
-![K-NR](images/__results___20_0.png.PNG)
-![K-NR](images/__results___16_0.png.PNG)
-![K-NR](images/__results___17_0.png.PNG)
+![K-NR](images/__results___15_0.png)
+![K-NR](images/__results___20_0.png)
+![K-NR](images/__results___16_0.png)
+![K-NR](images/__results___17_0.png)
 
 
 
