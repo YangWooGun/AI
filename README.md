@@ -12,11 +12,9 @@
 
 ### HISTOGRAM
 
-![히스토그램](images/__results___13_0.PNG)
+![히스토그램](images/__results___13_0.png)
 
-```python
-evn.myhist()
-```
+
 
 환경들을 히스토그램을 이용해 만들었습니다.
 
@@ -24,8 +22,6 @@ evn.myhist()
 
 ### HEATMAP
 
-![히트맵](images/__results___14_0.PNG)
-(["rain_mean_annual","temp_annual_range","isothermality","wind","cloudiness"])
 
 
 히트맵을 통해 각 컬럼 별로 얼마나 관계가 깊은지 확인했습니다.
