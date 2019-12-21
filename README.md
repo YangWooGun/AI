@@ -32,9 +32,15 @@
 
 ![K-NR](images/__results___15_0.png)
 ![K-NR](images/__results___20_0.png)
-예측
+
+##예측
+
+
 ![K-NR](images/__results___16_0.png)
-결과 테이블
+
+
+##결과 테이블
+
 ![K-NR](images/__results___17_0.png)
 
 
